@@ -1,7 +1,7 @@
 # Mercy Of The Shadows
 
 ## Group:
-	Stefan H. Gregersen | Tarllark
+Stefan H. Gregersen | Tarllark
 
 ## Summary:
 A basic 3D first person stealth game. The players objective is to sneak past sentries looking for intruders, to find scattered key objects, and the corresponding locks, without being spotted to beat the game.
