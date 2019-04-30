@@ -8,11 +8,14 @@ A basic 3D first person stealth game. The players objective is to sneak past sen
 
 ## Parts to be implemented:
 • Playable First Person character
-/n
+
 • Stationary sentries with rotational line of sight
+
 • Optical and Auditory stealth system
+
 • Player objectives
 
 ## Parts to be implemented if enough time:
 • Patrolling guards
+
 • Ability system
