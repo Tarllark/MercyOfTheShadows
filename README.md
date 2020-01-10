@@ -11,7 +11,7 @@ A basic 3D first person stealth game. The players objective is to sneak past sen
 
 • Stationary sentries with rotational line of sight
 
-• Optical and Auditory detection / stealth system
+• "Optical" detection / stealth system
 
 • Player objectives
 
@@ -19,3 +19,5 @@ A basic 3D first person stealth game. The players objective is to sneak past sen
 • Patrolling guards
 
 • Ability system
+
+• Auditory detection
